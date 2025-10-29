@@ -1,0 +1,51 @@
+Month	Year	Cost	Items	Buyer						
+January	2015	" ? 1,050.00 "	99	Smyth						
+May	2015	" ? 1,050.00 "	89	Smyth						
+June	2015	" ? 1,050.00 "	131	Smyth						
+June	2015	" ? 1,050.00 "	131	Smyth						
+August	2015	" ? 1,050.00 "	101	Smyth						
+January	2015	" ? 1,105.00 "	70	De Soto						
+May	2015	" ? 1,105.00 "	171	De Soto						
+June	2015	" ? 1,105.00 "	125	De Soto						
+June	2015	" ? 1,105.00 "	125	De Soto						
+August	2015	" ? 1,105.00 "	111	De Soto						
+January	2015	" ? 1,200.00 "	161	Reynolds						
+February	2015	" ? 1,200.00 "	171	Reynolds						
+March	2015	" ? 1,200.00 "	70	Reynolds						
+April	2015	" ? 1,200.00 "	125	Reynolds						
+May	2015	" ? 1,200.00 "	146	Reynolds						
+June	2015	" ? 1,200.00 "	152	Reynolds						
+June	2015	" ? 1,200.00 "	113	Reynolds						
+July	2015	" ? 1,200.00 "	101	Reynolds						
+August	2015	" ? 1,200.00 "	99	Reynolds						
+November	2015	" ? 1,200.00 "	146	Reynolds						
+November	2015	" ? 1,211.00 "	116	Gonzales						
+February	2015	" ? 1,350.00 "	89	De Soto						
+March	2015	" ? 1,350.00 "	99	De Soto						
+April	2015	" ? 1,350.00 "	131	De Soto						
+July	2015	" ? 1,350.00 "	146	De Soto						
+November	2015	" ? 1,350.00 "	171	De Soto						
+February	2015	" ? 1,435.00 "	125	Smyth						
+March	2015	" ? 1,435.00 "	111	Smyth						
+April	2015	" ? 1,435.00 "	161	Smyth						
+July	2015	" ? 1,435.00 "	171	Smyth						
+November	2015	" ? 1,435.00 "	142	Smyth						
+February	2015	" ? 1,672.00 "	131	Gonzales						
+March	2015	" ? 1,672.00 "	101	Gonzales						
+April	2015	" ? 1,672.00 "	70	Gonzales						
+July	2015	" ? 1,672.00 "	89	Gonzales						
+January	2015	" ? 1,690.00 "	111	Gonzales						
+May	2015	" ? 1,690.00 "	101	Gonzales						
+June	2015	" ? 1,690.00 "	161	Gonzales						
+June	2015	" ? 1,690.00 "	161	Gonzales						
+August	2015	" ? 1,690.00 "	146	Gonzales						
+June	2015	" ? 2,000.00 "	146	Gonzales						
+										
+										
+										
+										
+										
+										
+										
+										
+Total		" ? 55,049.00 "								
